@@ -1,3 +1,5 @@
+This fork will be perpetually broken. Save yourself the hassle and get ffuf [here](https://github.com/ffuf/ffuf)
+
 ```
         /'___\  /'___\           /'___\
        /\ \__/ /\ \__/  __  __  /\ \__/
